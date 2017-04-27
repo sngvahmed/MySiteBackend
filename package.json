@@ -1,0 +1,22 @@
+{
+  "name": "sngv",
+  "version": "1.0.0",
+  "description": "my website backend service ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sngvahmed/MySiteBackend.git"
+  },
+  "author": "Sngv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sngvahmed/MySiteBackend/issues"
+  },
+  "homepage": "https://github.com/sngvahmed/MySiteBackend#readme",
+  "dependencies": {
+    "hapi": "^16.1.1"
+  }
+}
